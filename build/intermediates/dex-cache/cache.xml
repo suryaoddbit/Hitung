@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/SuryaAdi/.android/build-cache/490414477f2e1960426dd445d39c7c5e3ed5ca68/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/SuryaAdi/Documents/Workspace/Github/Perhitungan/Perhitungan/app/build/intermediates/pre-dexed/debug/classes_5579ccee2be18e7157a6e3371158b6ce8d208d7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SuryaAdi/.android/build-cache/18371b332d4a47b77e8a8006584d6673b480377c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/SuryaAdi/Documents/Workspace/Github/Perhitungan/Perhitungan/app/build/intermediates/pre-dexed/debug/classes_adbb835cdf1988e02b40bebc44d3fcbc612916ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SuryaAdi/.android/build-cache/8ff7aa52406900887862922c9353ffa86191c860/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/SuryaAdi/Documents/Workspace/Github/Perhitungan/Perhitungan/app/build/intermediates/pre-dexed/debug/classes_d69b18541ba8440fb84c093b37c0bc4cb05858d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SuryaAdi/.android/build-cache/1c2f5403845379331ec0bcce40638d653ccdcaaa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/SuryaAdi/Documents/Workspace/Github/Perhitungan/Perhitungan/app/build/intermediates/pre-dexed/debug/classes_dabdd24edfd05a258a021fdf44ef29b95b151078.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SuryaAdi/.android/build-cache/03bcb9993f38e1a3544189e2ce08eadc00b7945b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/SuryaAdi/Documents/Workspace/Github/Perhitungan/Perhitungan/app/build/intermediates/pre-dexed/debug/classes_ea069a8ca190e8a33a71c76c6b9f1951b769c953.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SuryaAdi/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/SuryaAdi/Documents/Workspace/Github/Perhitungan/Perhitungan/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_73ca1c318b544aeb13b65dc12ad5e93bd7ebc044.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SuryaAdi/.android/build-cache/0306eb06924aa79115ba250d78e7fb87a8851ec3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/SuryaAdi/Documents/Workspace/Github/Perhitungan/Perhitungan/app/build/intermediates/pre-dexed/debug/classes_f097bf4705e947cc81cc698264624562211450c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SuryaAdi/.android/build-cache/573e82424f88d284403f73e8b7211ab3c575535d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/SuryaAdi/Documents/Workspace/Github/Perhitungan/Perhitungan/app/build/intermediates/pre-dexed/debug/classes_bb680e60f9e353c4483fc579fc39540edfa37bc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SuryaAdi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/SuryaAdi/Documents/Workspace/Github/Perhitungan/Perhitungan/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_7d4842e9ca9ec8d1d536da1104045aa13ceb4ef2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SuryaAdi/.android/build-cache/f4a3f448d370a2734b9623919e9ede50976a7698/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/SuryaAdi/Documents/Workspace/Github/Perhitungan/Perhitungan/app/build/intermediates/pre-dexed/debug/classes_670c5cb59085b389fa8e2fb0767e96ffd99f7cb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SuryaAdi/.android/build-cache/251caf65d5ed6be24b51fb1db084685bc7abc3e6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/SuryaAdi/Documents/Workspace/Github/Perhitungan/Perhitungan/app/build/intermediates/pre-dexed/debug/classes_b82a9d511ae30ca27a05e030fcb7ecfe9dd03302.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/SuryaAdi/.android/build-cache/52980ea294d6fa8d156e941098d0671fe4be806f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/SuryaAdi/Documents/Workspace/Github/Perhitungan/Perhitungan/app/build/intermediates/pre-dexed/debug/classes_d584da71a3d5f52b7d1b6239a12755664cec9a9f.jar" />
+    </item>
+
+</items>

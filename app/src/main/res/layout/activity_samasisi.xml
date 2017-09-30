@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/imgbangundatar"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="stikombali.alathitung.Samasisi">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Keliling Segitiga Sama Sisi"
+        android:textAlignment="center"
+        android:textSize="30sp"/>
+    <EditText
+        android:inputType="numberDecimal"
+        android:id="@+id/etAlassamasisi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Masukan Alas"
+        android:textAlignment="center"/>
+    <EditText
+        android:id="@+id/ettinggisamasisi"
+        android:inputType="numberDecimal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Masukan Tinggi"
+        android:textAlignment="center"/>
+    <Button
+        android:id="@+id/btnHasilluasSamasisi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Jawab"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Keliling Segitiga Sama Sisi"
+        android:textAlignment="center"
+        android:textSize="30sp"/>
+    <EditText
+        android:inputType="numberDecimal"
+        android:id="@+id/etSisi1Samasisi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Masukan salah satu sisinya"
+        android:textAlignment="center"/>
+    <Button
+        android:id="@+id/btnHasilKelilingSamasisi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Jawab"/>
+    <TextView
+        android:id="@+id/tvHasilSamasisi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hasil"
+        android:textSize="30sp"/>
+</LinearLayout>
